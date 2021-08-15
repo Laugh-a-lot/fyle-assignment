@@ -1,0 +1,35 @@
+.left_col{
+    margin: auto 0 auto auto;
+    width: 600px;
+     
+}.top_heading {
+  width: 251px;
+  height: 30px;
+  text-align: left;
+  font: normal normal 600 30px;
+  color: #ff3147;
+  font-size: 30px;
+}
+.hero_text {
+  width: 614px;
+  height: 140px;
+  text-align: left;
+  font-size: 60px;
+  font-weight: bold;
+}
+.hero_paragraph{
+    width: 584px;
+height: 83px;
+font-size: 16px;
+color: #000000;
+}
+.contact{
+    border: none;
+    width: 160px;
+height: 50px;
+font: normal normal 600 14px/26px 'Poppins';
+letter-spacing: 1.4px;
+color: #FFFFFF;
+background: #FF3147 0% 0% no-repeat padding-box;
+border-radius: 2px;
+}

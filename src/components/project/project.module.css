@@ -1,0 +1,21 @@
+.active{
+    background-color:#FF3147;
+    border-radius: 10px;
+    color: white
+}
+.col{
+    margin-inline: 25px;
+    background-color: #F6F6F6;
+    flex-basis: 25%;
+    border-radius: 10px;
+}
+.project_img {
+    width: 700px;
+    height: 500px;
+    flex-grow: 1;
+    border-radius:10px; 
+}
+/* Choose Us  */
+.cards:hover{
+    box-shadow: 3px 6px 20px #672C2C1F;
+}
